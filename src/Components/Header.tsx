@@ -6,7 +6,7 @@ export const Header = () => {
       <div className="headerWrapper">
         <div className="headerImgWrapper">
           <img
-            src="../src/assets/Logo.png"
+            src="/public/LogoHeader.png"
             alt="Gulorange pil och texten Studiematcharen - Din väg till att hitta rätt utbildning"
           />
         </div>
